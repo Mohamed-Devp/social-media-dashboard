@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://github.com/Mohamed-Devp/social-media-dashboard/)
+- Live Site URL: [Live Demo](https://mohamed-devp.github.io/social-media-dashboard/)
 
 ## My process
 
